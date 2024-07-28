@@ -6,11 +6,11 @@ Password Strength Checker is a Python program that allows users to create and ma
 
 - Username Creation: Allows users to create new usernames, ensuring that each username is unique.
 
--Password Strength Validation: Ensures passwords meet specific security criteria, such as length and the inclusion of various character types.
+- Password Strength Validation: Ensures passwords meet specific security criteria, such as length and the inclusion of various character types.
 
--Password Change: Users can search for their usernames and change their passwords.
+- Password Change: Users can search for their usernames and change their passwords.
 
--Display Usernames: Displays all usernames stored in the database.
+- Display Usernames: Displays all usernames stored in the database.
 
 # How to Use
 
